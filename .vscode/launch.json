@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckPermutation",
+            "request": "launch",
+            "mainClass": "CheckPermutation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IsUnique",
+            "request": "launch",
+            "mainClass": "IsUnique"
+        }
+    ]
+}
