@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - URLify",
+            "request": "launch",
+            "mainClass": "URLify"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CheckPermutation",
             "request": "launch",
             "mainClass": "CheckPermutation"
