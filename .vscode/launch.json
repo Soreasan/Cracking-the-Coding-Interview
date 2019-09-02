@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PalindromePermutation",
+            "request": "launch",
+            "mainClass": "PalindromePermutation"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - URLify",
             "request": "launch",
             "mainClass": "URLify"
