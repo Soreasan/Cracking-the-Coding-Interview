@@ -6,7 +6,8 @@ EXAMPLE
 Input: Tact Coa
 Output: True (permutations: "taco cat", "atco cta", etc.)
 
-My note: It appears we need to strip out whitespace and lowercase everything.  
+My note: This wasn't my approach, I followed the solution in the book because it's very focused
+on converting the chars into integers which is an approach I haven't done very much of.  
 */
 
 public class PalindromePermutation{
